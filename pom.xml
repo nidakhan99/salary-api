@@ -79,7 +79,7 @@
                     <id>validate</id>
                     <phase>validate</phase>
                     <configuration>
-                        <configLocation>checkstyle.xml</configLocation>
+                        <configLocation>checkstyle-result.xml</configLocation>
                         <!-- Add other configuration options as needed -->
                     </configuration>
                     <goals>
